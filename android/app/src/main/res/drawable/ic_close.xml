@@ -1,0 +1,12 @@
+<!-- drawable/close.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:height="24dp"
+    android:width="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="@android:color/black"
+        android:pathData="M18.36,6.64L17,5.27L12,10.27L7,5.27L5.64,6.64L10.64,11.64L5.64,16.64L7,18L12,13L17,18L18.36,16.64L13.36,11.64L18.36,6.64Z"
+        tools:ignore="VectorRaster" />
+</vector>

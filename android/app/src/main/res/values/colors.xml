@@ -1,0 +1,6 @@
+<!-- res/values/colors.xml -->
+<resources>
+    <color name="green">#4CAF50</color>
+    <color name="status_bar_blue">#E9F4FF</color>
+    <color name="title_appbar_blue">#0063CB</color>
+</resources>
